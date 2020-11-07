@@ -5,6 +5,8 @@ a pocket calculator.
 
 [![Build Status](https://dev.azure.com/piotrrogala2/github-integration/_apis/build/status/wsbdevops1.calculator?branchName=master)](https://dev.azure.com/piotrrogala2/github-integration/_build/latest?definitionId=1&branchName=master)
 
+[![Build Status](https://dev.azure.com/piotrrogala2/github-integration/_apis/build/status/wsbdevops1.calculator?branchName=master)](https://dev.azure.com/piotrrogala2/github-integration/_build/latest?definitionId=1&branchName=master)
+
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
